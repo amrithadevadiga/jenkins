@@ -1,4 +1,3 @@
-@Library('deploy-conf') _
 node() {
     try {
         String ANSI_GREEN = "\u001B[32m"
